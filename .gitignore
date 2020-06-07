@@ -1,1 +1,4 @@
-/free-edition/*.zip
+*.zip
+*.gz
+*.ttl
+*.nt
